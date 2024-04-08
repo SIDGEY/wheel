@@ -11,6 +11,10 @@ This project serves as a starting point for building a Flutter application. If y
 
 For comprehensive Flutter development guidance, refer to the [Flutter online documentation](https://docs.flutter.dev/), which provides tutorials, samples, and a full API reference.
 
+## displau: 
+<img width="1434" alt="ScreeShot" src="https://github.com/SIDGEY/wheel/assets/100686301/9cedc712-d74d-47f6-8523-8dd1d1f1fdfd">
+
+
 ## Features
 
 - A spinning wheel of fortune that users can rotate to win random prizes.
